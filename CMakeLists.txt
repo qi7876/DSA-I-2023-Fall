@@ -14,4 +14,8 @@ add_executable(Learning
         2.12.8.c
         3.1.c
         3.1.1.c
-        3.4.c)
+        3.4.c
+        4.cpp
+        test.c
+        作业2.c
+        作业1.c)
