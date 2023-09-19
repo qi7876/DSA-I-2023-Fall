@@ -1,3 +1,4 @@
+/*
 // Created by Qiww on 2023/9/17.
 #include "stdio.h"
 int main(void)
@@ -8,4 +9,4 @@ int main(void)
     scanf("%f %f", &Mile, &Oil);
     printf("Liter per 100km: %.1f\n", Oil * GALLON / (Mile * MILE) * 100);
     return 0;
-}
+}*/
