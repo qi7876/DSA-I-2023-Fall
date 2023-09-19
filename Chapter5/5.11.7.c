@@ -1,3 +1,4 @@
+/*
 // Created by Qiww on 2023/9/19.
 #include "stdio.h"
 
@@ -15,4 +16,4 @@ int main(void)
 void cube(double UserInputDouble)
 {
     printf("%lf", UserInputDouble * UserInputDouble * UserInputDouble);
-}
+}*/
