@@ -22,4 +22,5 @@ void temperatures(double Temp)
     printf("S:%.2lf\n", 5.0 / 9.0 * (Temp - 32.0));
     printf("K:%.2lf\n", 5.0 / 9.0 * (Temp - 32.0) + 273.16);
     printf("H:%.2lf\n", Temp);
-}*/
+}
+*/
