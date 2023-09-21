@@ -45,4 +45,6 @@ add_executable(Learning
         Chapter6/6.16.3.c
         Chapter6/6.16.4.c
         Chapter6/6.16.5.c
-        Chapter6/6.16.6.c)
+        Chapter6/6.16.6.c
+        Chapter6/6.16.7.c
+        Chapter6/6.16.8.c)
