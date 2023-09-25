@@ -52,4 +52,6 @@ add_executable(Learning
         Homework/Homework4.c
         Homework/Homework5.c
         Homework/Homework6.c
-        Homework/Homework7.c)
+        Homework/Homework7.c
+        Chapter7/7.2.c
+)
