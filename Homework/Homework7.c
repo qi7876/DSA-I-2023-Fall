@@ -1,24 +1,24 @@
-// Created by Qiww on 2023/9/22.
+/*
 #include "stdio.h"
 
 int main(void)
 {
-     double X, XSource, N, Sum = 1;
-     int Multi = 1;
-    scanf("%lf %lf", &X, &N);
+    double X4e, XOrigin, Sum = 1, N;
+    long long int Multi = 1;
+    scanf("%lf %lf", &X4e, &N);
     if (N < 0)
         printf("error");
     else
-        if (X == 0)
+        if (X4e == 0)
             printf("%lf", Sum);
         else{
-            XSource = X;
+            XOrigin = X4e;
             for (int i = 1; i <= N; ++i) {
-                Sum += (X / Multi);
-                X *= XSource;
+                Sum += (X4e / Multi);
+                X4e *= XOrigin;
                 Multi *= (i + 1);
             }
-            printf("%lf", Sum);
+            printf("%.6lf\n", Sum);
         }
     return 0;
-}
+}*/

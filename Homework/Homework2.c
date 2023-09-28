@@ -17,4 +17,5 @@ int main(void)
     }
     printf("%d,%d", B, a * b / B);
     return 0;
-}*/
+}
+*/
