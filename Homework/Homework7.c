@@ -1,3 +1,4 @@
+/*
 // Created by Qiww on 2023/9/22.
 #include "stdio.h"
 
@@ -22,3 +23,4 @@ int main(void)
         }
     return 0;
 }
+*/
