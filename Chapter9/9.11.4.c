@@ -1,3 +1,4 @@
+/*
 // Created by Qiww on 2023/10/2.
 #include "stdio.h"
 
@@ -17,4 +18,4 @@ void large_of(double * X, double * Y) {
     } else {
         *Y = *X;
     }
-}
+}*/
