@@ -1,3 +1,4 @@
+/*
 // Created by Qiww on 2023/10/10.
 
 #include "stdio.h"
@@ -17,4 +18,4 @@ int main(void) {
             return 0;
         }
     }
-}
+}*/
