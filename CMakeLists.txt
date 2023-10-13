@@ -63,4 +63,5 @@ add_executable(Learning
         Homework/Homework21.c
         Homework/Homework7.c
         Homework/Homework23.c
+        Homework/Homework24.c
 )

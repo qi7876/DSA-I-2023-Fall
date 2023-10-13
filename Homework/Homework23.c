@@ -1,3 +1,4 @@
+/*
 // Created by Qi7 on 2023/10/12.
 
 #include "stdio.h"
@@ -22,4 +23,4 @@ int main(void) {
         default:
             printf("days:31");
     }
-}
+}*/
