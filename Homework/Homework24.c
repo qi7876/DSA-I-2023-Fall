@@ -1,3 +1,4 @@
+/*
 // Created by Qi7 on 2023/10/13.
 #include "stdio.h"
 #include "string.h"
@@ -22,4 +23,4 @@ int main(void) {
         LastChar = CurrentChar;
     }
     return 0;
-}
+}*/
