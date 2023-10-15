@@ -10,5 +10,4 @@ int main(void) {
             scanf("%d", &Mod[i][j]);
         }
     }
-
 }
