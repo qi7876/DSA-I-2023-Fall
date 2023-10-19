@@ -72,4 +72,11 @@ add_executable(Learning
         Homework/Homework30.c
         Homework/Homework19.c
         Homework/Homework9.c
+        Homework/Homework31.c
+        Homework/Homework32.c
+        Homework/Homework33.c
+        Homework/Homework34.c
+        Homework/Homework35.c
+        Homework/Homework36.c
+        Homework/Homework37.c
 )

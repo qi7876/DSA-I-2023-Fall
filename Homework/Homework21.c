@@ -1,3 +1,4 @@
+/*
 #include<stdio.h>
 
 int main(void) {
@@ -8,4 +9,4 @@ int main(void) {
   while ((str1[i] == str2[i] && str1[i] != '\0')) i++;
   s = str1[i] - str2[i];
   printf("%d\n", s);
-}
+}*/
