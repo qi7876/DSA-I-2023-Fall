@@ -13,18 +13,27 @@ int main(void) {
     scanf("%s", UserInputString);
 
     del(UserInputString, FirstChar, DeleteCharNum);
+    printf("%s", UserInputString);
     return 0;
 }
 
 void del(char * String, int n, int len) {
-    int Length;
-    Length = (int)strlen(String);
+    int Length, i;
     if (String == NULL || n < 0 || len < 0) {
         printf("error\n");
         return;
     }
-    for (int i = n; i < Length - n; i++) {
+    for(i=0;i < n + len;i++) {
+        if (String[i] == ' ') {
+            printf("error\n");
+            return;
+        }
+    }
+    Length = (int)strlen(String);
+    for (i = n; i < Length - n; i++) {
         String[i] = String[i + len];
     }
-    String[Length - len] = '\0';
+    for(;String[i]!='\0';i++) {
+        String[i]=' ';
+    }
 }
