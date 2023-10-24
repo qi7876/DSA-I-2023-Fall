@@ -14,7 +14,6 @@ add_executable(Learning
         Chapter2/2.12.8.c
         Chapter3/3.1.1.c
         Chapter3/3.11.2.c
-        Homework/作业2.c
         Homework/作业1.c
         Chapter3/3.11.3.c
         Chapter3/3.11.4.c
@@ -47,36 +46,40 @@ add_executable(Learning
         Chapter6/6.16.5.c
         Chapter6/6.16.6.c
         Chapter6/6.16.7.c
-        Homework/Homework2.c
-        Homework/Homework3.c
-        Homework/Homework4.c
-        Homework/Homework5.c
-        Homework/Homework6.c
-        Homework/Homework7.c
+        "Homework/Part1(Done)/Homework2.c"
+        "Homework/Part1(Done)/Homework3.c"
+        "Homework/Part1(Done)/Homework4.c"
+        "Homework/Part1(Done)/Homework5.c"
+        "Homework/Part1(Done)/Homework6.c"
+        "Homework/Part1(Done)/Homework7.c"
         Chapter7/7.2.c
-        Homework/Homework10.c
+        "Homework/Part1(Done)/Homework10.c"
         Chapter9/9.11.1.c
         Chapter9/9.11.2.c
         Chapter9/9.11.3.c
         Chapter9/9.11.4.c
         Chapter9/9.11.5.c
-        Homework/Homework21.c
-        Homework/Homework7.c
-        Homework/Homework23.c
-        Homework/Homework24.c
-        Homework/Homework25.c
-        Homework/Homework26.c
-        Homework/Homework27.c
-        Homework/Homework28.c
-        "Homework/Homework29.c"
-        Homework/Homework30.c
-        Homework/Homework19.c
-        Homework/Homework9.c
-        Homework/Homework31.c
-        Homework/Homework32.c
-        Homework/Homework33.c
-        Homework/Homework34.c
-        Homework/Homework35.c
-        Homework/Homework36.c
-        Homework/Homework37.c
+        "Homework/Part3(Done)/Homework21.c"
+        "Homework/Part1(Done)/Homework7.c"
+        "Homework/Part3(Done)/Homework23.c"
+        "Homework/Part3(Done)/Homework24.c"
+        "Homework/Part3(Done)/Homework25.c"
+        "Homework/Part3(Done)/Homework26.c"
+        "Homework/Part3(Done)/Homework27.c"
+        "Homework/Part3(Done)/Homework28.c"
+        "Homework/Part3(Done)/Homework29.c"
+        "Homework/Part3(Done)/Homework30.c"
+        Homework/Part2/Homework19.c
+        "Homework/Part1(Done)/Homework9.c"
+        Homework/Part4/Homework31.c
+        Homework/Part4/Homework32.c
+        Homework/Part4/Homework33.c
+        Homework/Part4/Homework34.c
+        Homework/Part4/Homework35.c
+        Homework/Part4/Homework36.c
+        Homework/Part4/Homework37.c
+        Homework/Part4/Homework40.c
+        Homework/Part4/Homework39.c
+        Homework/Part4/Homework38.c
+        "Homework/Part1(Done)/Homework1.c"
 )

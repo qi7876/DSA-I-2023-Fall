@@ -1,4 +1,3 @@
-/*
 // Created by Qi7 on 2023/10/16.
 
 #include "stdio.h"
@@ -20,7 +19,7 @@ int main(void) {
 
 void del(char * String, int n, int len) {
     int Length;
-    if (String == NULL || n <= 0) {
+    if (String == NULL || n < 0) {
         printf("error");
         return;
     }
@@ -32,4 +31,4 @@ void del(char * String, int n, int len) {
         String[i] = String[i + len];
     }
     String[Length - len] = '\0';
-}*/
+}
