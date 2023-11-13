@@ -82,4 +82,8 @@ add_executable(Learning
         Homework/Part4/Homework39.c
         Homework/Part4/Homework38.c
         "Homework/Part1(Done)/Homework1.c"
+        Homework/Part5/Homework41.c
+        Homework/Part5/Homework42.c
+        Homework/Part5/Homework43.c
+        Homework/Part5/Homework44.c
 )

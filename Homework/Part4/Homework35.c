@@ -1,3 +1,4 @@
+/*
 // Created by Qi7 on 2023/10/16.
 
 #include "stdio.h"
@@ -20,3 +21,4 @@ int ReverseArray(int * array, int size) {
     }
     return 1;
 }
+*/
