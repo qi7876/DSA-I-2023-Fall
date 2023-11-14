@@ -21,7 +21,7 @@ int main(void) {
     MaxIndex = MinIndex = 1;
 
     /*找出最大值和最小值及其对应位置*/
-    for (int i = 0; i < UserInputNum; ++i) {
+    for (int i = 1; i < UserInputNum + 1; ++i) {
         token = atoi(strtok(NULL, " "));
         if (Max < token) {
             Max = token;
