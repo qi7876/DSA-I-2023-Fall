@@ -69,7 +69,7 @@ add_executable(Learning
         "Homework/Part3(Done)/Homework28.c"
         "Homework/Part3(Done)/Homework29.c"
         "Homework/Part3(Done)/Homework30.c"
-        Homework/Part2/Homework19.c
+        "Homework/Part2(Done)/Homework19.c"
         "Homework/Part1(Done)/Homework9.c"
         Homework/Part4/Homework31.c
         Homework/Part4/Homework32.c
@@ -82,8 +82,15 @@ add_executable(Learning
         Homework/Part4/Homework39.c
         Homework/Part4/Homework38.c
         "Homework/Part1(Done)/Homework1.c"
-        Homework/Part5/Homework41.c
-        Homework/Part5/Homework42.c
-        Homework/Part5/Homework43.c
-        Homework/Part5/Homework44.c
+        "Homework/Part5(Done)/Homework41.c"
+        "Homework/Part5(Done)/Homework42.c"
+        "Homework/Part5(Done)/Homework43.c"
+        "Homework/Part5(Done)/Homework44.c"
+        "Homework/Part5(Done)/Homework45.c"
+        "Homework/Part5(Done)/Homework46.c"
+        "Homework/Part5(Done)/Homework47.c"
+        Homework/Part6/Homework48.c
+        Homework/Part6/Homework49.c
+        Homework/Part6/Homework50.c
+        Homework/Part6/Homework51.c
 )
